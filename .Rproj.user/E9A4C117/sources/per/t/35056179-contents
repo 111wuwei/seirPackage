@@ -1,0 +1,6 @@
+^.*\.Rproj$
+^\.Rproj\.user$
+^LICENSE\.md$
+^Rplots\.pdf$
+^seir\.pdf$
+^seir\.svg$
